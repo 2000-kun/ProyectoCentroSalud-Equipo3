@@ -1,0 +1,12 @@
+# NetBeans / Java
+build/
+dist/
+nbproject/private/
+*.class
+
+# Archivos CSV generados en ejecución
+*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
